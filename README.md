@@ -1,16 +1,46 @@
-## Hi there 👋
+# Hey! I'm Jagruthi 👋
 
-<!--
-**Jagruti-gits/Jagruti-gits** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 CSE student | 2nd Year @ GCET Hyderabad
 
-Here are some ideas to get you started:
+I'm currently exploring the world of software development, experimenting with different technologies, and building projects whenever I get an idea worth trying.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 💻 Tech I'm Exploring
+
+`C` · `Java` · `Python` · `MySQL` · `Git` · `GitHub`
+
+Also experimenting with **AI tools and APIs** while learning how to turn ideas into actual projects.
+
+### 🌟 Things I've Built
+
+🔗 **Chemverse**
+https://chemversebyjagruti.netlify.app/
+
+🔗 **Emoji Premier League**
+https://emojipremierleague.netlify.app/
+
+🔗 **GCET Nexus**
+https://gcet-nexus.vercel.app/
+
+🔗 **Scriptoria**
+
+🔗 **VoyageAI**
+
+### 🌱 What I'm Working On
+
+* Getting better at problem solving
+* Strengthening my programming fundamentals
+* Learning DSA, Java and DBMS
+* Exploring open-source projects
+* Building and experimenting with new ideas
+
+### 🚀 Looking Ahead
+
+I'm looking forward to building better projects, participating in hackathons, exploring open source, and eventually getting my first internship.
+
+### 📍 Currently
+
+**Learning → Building → Experimenting → Improving**
+
+---
+
+*Still figuring things out, but always building something.*
